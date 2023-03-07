@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pnovau.github.io
+Token: 586e44fb4ed53a43a30fc025023fa837f1c75da3128589c59a1987cdaf604c9b
